@@ -497,7 +497,7 @@ h1 {
     }
 
     .header .container {
-        background-image: url('/img/bg-mobile.jpg');
+        background-image: url('./img/bg-mobile.jpg');
         background-repeat: no-repeat;
         background-size: 100%;
     }
@@ -521,7 +521,7 @@ h1 {
     }
 
     .nav__logo {
-        content: url('/img/logo-white.svg');
+        content: url('./img/logo-white.svg');
     }
 
     .nav__links {
